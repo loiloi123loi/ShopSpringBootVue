@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as t}from"./index-qvhTPnAq.js";const o={},s={class:"flex items-center justify-center w-full h-full flex-col gap-14"};function n(r,l){return c(),t("div",s,"Home")}const _=e(o,[["render",n]]);export{_ as default};

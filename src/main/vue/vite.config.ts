@@ -11,7 +11,8 @@ export default defineConfig({
     }
   },
   server: {
-    port: 3000
+    port: 3000,
+    proxy: 'http://localhost:5000'
   },
   build: {
     outDir: '../resources/static'
