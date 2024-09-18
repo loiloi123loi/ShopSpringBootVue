@@ -1,7 +1,9 @@
 <template>
   <div class="flex flex-col justify-center h-screen w-screen">
     <AppHeader />
-    <RouterView />
+    <div class="w-full h-full px-[15%] bg-base-200">
+      <RouterView />
+    </div>
     <AppFooter />
   </div>
 </template>
